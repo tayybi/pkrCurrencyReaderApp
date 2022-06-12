@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\SH\\Other's\\PKR Currency Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\SH\\Other's\\PKR Currency Reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\SH\\Other's\\PKR Currency Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\money.png",
+        "source": "E:\\SH\\Other's\\PKR Currency Reader\\app\\src\\main\\res\\drawable-hdpi\\money.png"
+    },
+    {
+        "merged": "E:\\SH\\Other's\\PKR Currency Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "E:\\SH\\Other's\\PKR Currency Reader\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    }
+]

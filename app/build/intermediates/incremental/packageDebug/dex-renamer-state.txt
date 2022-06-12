@@ -1,0 +1,4 @@
+#Sat Jan 12 19:37:27 PKT 2019
+base.0=E\:\\SH\\Other's\\PKR Currency Reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\SH\\Other's\\PKR Currency Reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

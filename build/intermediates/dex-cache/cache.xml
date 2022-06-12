@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\2d3751edd7fe4a8aae5be877c85866aec9053ae5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_240c402d470f38a2df175dfa5697b078abb3be51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\c6f03d7b065048ef2119d5062be3c5a0fdb56632\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_8068a8ff52b24f0fd37c5041f7de517542723071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\cc88da5dc90b4c1bc7d11bd631a4059dd890750a\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9570d2772d4f8aeb3f1d1da84cac41ce3557c304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\cc4970abfb945ffdc63130de3878bc88202d334b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_96ba9ab07b18989ac088dcd7ea927e9ffe1895b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\99cae6cfd560b4f9ebfd428a24800ecb3a1b2e07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_0575111bd46ad02c8fcd3be289824a8a18552656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\c3206b580042df22d00a891388a2a155107794ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_1a4df930ada96b21c340522280d30b50ac38aae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\78dc99e3b5864f9c613e4033bf5ccc64c9c3cb7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_3aa16ca56a529f4c0c6ad2efe6e73e0dcf656fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\3d9102a4d43d233140ad8735834b7730624d3261\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_dfeda3168fc9926553a3ba126293ed2b6d009bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\46e776f4aab17761128870c7b0d2b9f82d3c5e33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_f0b7349c66d892bfdf9cfbfe11bd3ad870047cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\2d3751edd7fe4a8aae5be877c85866aec9053ae5\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a683aa58403e796e3c502a44995181cb74f1d4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\6a38bc2b13243bd270c0ab28d6cedba3db5f4034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_7481c4ebba3a6a032ba2e51d4223e52ee6e840dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\308b336e888055db1c565fd423786a9627fb3607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_fe451c0bb3feac3580d822ae3ae6f4755c2dc2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_94ac94de62152bb1b459b572ba8444061bd63ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\e8b21dd5f83762b9970eb319541ae4363f7d2df9\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9e6000bb6ae14f96ee06967a3cdb572f92ae18a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\a73cb925b0439e149df69123a3f58c890477395f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_45409b8c5270cc2bcb2e8c266c603a8fe7b42146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\4293ea7dd0f65b22b777c90d373ac99990e1b32d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_0ea1d7bf74811f22059bd774307d18d935dc5e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\99cae6cfd560b4f9ebfd428a24800ecb3a1b2e07\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_36259037b5eb6530f77a872989649f32b93d8673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\cc88da5dc90b4c1bc7d11bd631a4059dd890750a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_bfeccb99c31b662e2f8be74327039be18bb48e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\cc4970abfb945ffdc63130de3878bc88202d334b\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c17197f373390f3d202eaee4c2cac2c02b404809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\c0cf2459fc2b0b2f0ec4b2d235f681b62e2ed9e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_1c0128baa8409d29b2470c580de276be7eb76f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tayyab Ali\.android\build-cache\e8b21dd5f83762b9970eb319541ae4363f7d2df9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\SH\Other&apos;s\PKR Currency Reader\app\build\intermediates\pre-dexed\debug\classes_c617facfeb3b42965df618096ba0de3e4d6ac266.jar" />
+    </item>
+
+</items>
